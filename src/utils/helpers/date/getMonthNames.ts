@@ -13,7 +13,7 @@ export const  getMonthNames = (locale: string = 'default') => {
   monthsNames.forEach((_, i) => {
     const {month, monthIndex, monthShort, date} = createDate({
       locale,
-      date: new Date(d.getFullYear(), d.getMonth() + i, d.getDate())
+      date: new Date(d.getFullYear(), d.getMonth() + i, 1)
     });
 
     monthsNames[monthIndex] = {month, monthIndex, monthShort, date};

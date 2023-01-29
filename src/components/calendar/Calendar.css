@@ -18,10 +18,11 @@
 }
 
 .calendar__header__arrow__left, .calendar__header__arrow__right {
+    padding: 5px;
     width: 5px;
     height: 10px;
     cursor: pointer;
-    background-image: var(--images-arrow);
+    background: url('../../static/images/arrow.svg') no-repeat;
     user-select: none;
 }
 

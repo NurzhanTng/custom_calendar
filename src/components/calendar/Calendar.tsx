@@ -12,13 +12,13 @@ interface CalendarProps {
 }
 
 const Calendar: React.FC<CalendarProps> = ({
-  locale = 'ar-EG',
+  locale = 'default',
   selectDate,
   selectedDate,
   firstWeekDay= 2,
 }) => {
   const { state, functions } = useCalendar({ firstWeekDay, selectedDate, locale });
-  // console.log('state', state);
+  console.log('state', state);
 
   return (
     <div className='calendar'>
