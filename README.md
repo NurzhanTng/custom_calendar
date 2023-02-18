@@ -1,6 +1,13 @@
 # **Custom calendar**
+
+![React](https://img.shields.io/badge/react-555.svg?style=for-the-badge&logo=react&logoColor=%#61DAFB) 
+![Typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=fff) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+___
     
-My project is a **calendar** component that can be used anywhere. The project was originally created using [create_react_app](https://create-react-app.dev). Link to [source]()
+My project is a **calendar** component that can be used anywhere. The project was originally created using [create_react_app](https://create-react-app.dev). Link to [source](https://youtu.be/B8F9_IVgipw)
 
 ____
 
